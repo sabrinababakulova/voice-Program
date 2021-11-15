@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\voice program\voice program\bin\Debug\voice program.exe.config
+C:\Users\User\source\repos\voice program\voice program\bin\Debug\voice program.exe
+C:\Users\User\source\repos\voice program\voice program\bin\Debug\voice program.pdb
+C:\Users\User\source\repos\voice program\voice program\bin\Debug\NAudio.dll
+C:\Users\User\source\repos\voice program\voice program\bin\Debug\NAudio.xml
+C:\Users\User\source\repos\voice program\voice program\obj\Debug\voice program.csprojAssemblyReference.cache
+C:\Users\User\source\repos\voice program\voice program\obj\Debug\voice program.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\voice program\voice program\obj\Debug\voice program.csproj.CopyComplete
+C:\Users\User\source\repos\voice program\voice program\obj\Debug\voice program.exe
+C:\Users\User\source\repos\voice program\voice program\obj\Debug\voice program.pdb
